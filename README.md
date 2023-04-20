@@ -5,6 +5,7 @@ foram muito desafiadoras mas gratificante foi ver um jogo que desenvolvi funcion
 <br>
 <img src="https://github.com/diogorochembach/Ping-Pong-DEV/blob/main/assets/telaPingPong.png?raw=true" />
 <br>
+
 # :construction_worker: Installation
 
 **You need to install [Node.js](https://nodejs.org/en/download/) first, then in order to clone the project via HTTPS, run this command:**
