@@ -57,5 +57,5 @@ Feel free to **file a new issue** with a respective title and description on the
 
 
 
-Feito com♥por Rodolfo Mori👋(https://www.linkedin.com/in/diogorochembach/)
+Feito com♥por Diogo Rochembach :wave: [Entre em contato!]👋(https://www.linkedin.com/in/diogorochembach/)
 
