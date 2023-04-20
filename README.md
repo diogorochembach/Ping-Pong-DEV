@@ -48,7 +48,7 @@ Run the following command in order to start the application in a development env
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the [Origin Take-Home Assignment](https://github.com/rodolfomori/frontend-take-home-assignment/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!.
+Feel free to **file a new issue** with a respective title and description on the [Origin Ping-Pong-DEV](https://github.com/diogorochembach/Ping-Pong-DEV) repository. If you already found a solution to your problem, **I would love to review your pull request**!.
 
 <br>
 
@@ -56,5 +56,5 @@ Feel free to **file a new issue** with a respective title and description on the
 
 
 
-Made with ♥ by Rodolfo Mori :wave: [Get in touch!](https://www.linkedin.com/in/diogorochembach/)
+Made with ♥ by Diogo Rochembach :wave: [Get in touch!](https://www.linkedin.com/in/diogorochembach/)
 
