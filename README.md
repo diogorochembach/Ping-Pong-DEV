@@ -9,38 +9,38 @@
 
 # :construction_worker: Installation
 
-**You need to install [Node.js](https://nodejs.org/en/download/) first, then in order to clone the project via HTTPS, run this command:**
+**Você precisa instalar o [Node.js](https://nodejs.org/en/download/) primeiro, então para clonar o projeto via HTTPS, execute este comando:**
 
-```$ git clone https://github.com/rodolfomori/frontend-take-home-assignment.git```
+```$ git clone https://github.com/diogorochembach/Ping-Pong-DEV```
 
 <br>
 
-**Install dependencies**
+**Instalar dependências**
 
 ```$ npm install```
 
 <br>
 
-**Run Tests**
+**Executar testes**
 
-Unit test with Jest and Enzyme
+Teste de unidade com teste Jest e Enzyme
 <br>
 ```$ npm run test:jest```
 <br>
 <br>
-E2E test with Cypress
+Teste E2E com Cypress
 <br>```$ npm run test:e2e```
 <br>
 <br>
-All test
+Todos os testes
 <br>
 ```$ npm run test```
 
 <br>
 
-# :runner: Getting Started
+# :runner: Primeiros passos
 
-Run the following command in order to start the application in a development environment:
+Execute o seguinte comando para iniciar o aplicativo em um ambiente de desenvolvimento:
 
 ```$ npm run dev```
 
@@ -49,7 +49,7 @@ Run the following command in order to start the application in a development env
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the [Origin Ping-Pong-DEV](https://github.com/diogorochembach/Ping-Pong-DEV) repository. If you already found a solution to your problem, **I would love to review your pull request**!.
+Sinta-se à vontade para **enviar uma novo problema** com o respectivo título e descrição no [Origin Ping-Pong-DEV](https://github.com/diogorochembach/Ping-Pong-DEV) repository. Se você já encontrou uma solução para o seu problema, **eu adoraria revisar sua solicitação de pull request**!.
 
 <br>
 
@@ -57,5 +57,5 @@ Feel free to **file a new issue** with a respective title and description on the
 
 
 
-Feito com♥por Diogo Rochembach :wave: [Entre em contato!](https://www.linkedin.com/in/diogorochembach/)
+Feito com ♥ por Diogo Rochembach :wave: [Entre em contato!](https://www.linkedin.com/in/diogorochembach/)
 
