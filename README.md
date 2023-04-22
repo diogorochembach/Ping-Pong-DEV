@@ -16,22 +16,6 @@
 <h4> Esse projeto desenvolvi junto com o Prof. Felipe Fontoura nas aulas do <a href="https://lp.devsamurai.com.br/wue3c2p5/?utm_source=&utm_medium=cpc&utm_campaign=15847297851&utm_content=574424152468&xpromo=gl-574424152468&utm_term=133556228353&gclid=Cj0KCQjwxYOiBhC9ARIsANiEIfanQfjTDMFFZ-tMRUepq7UO9cVRkPLCWnstckaEyql_ANVXWueGAIEaArovEALw_wcB">DEVSAMURAI</a>. Foi muito desafiador, mas gratificante ver um jogo que desenvolvi funcionando. Por mais simples que pareça, foi difícil...</h4>
 <br>
 <br>
-## :computer: Technologies
-
-- [ReactJS](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Jest](https://jestjs.io/)
-- [Enzyme](https://enzymejs.github.io/enzyme/)
-- [Cypress](https://www.cypress.io/)
-- [Styled Components](https://styled-components.com/)
-- [Eslint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-- [Date-fns](https://date-fns.org/)
-- [Polished](https://polished.js.org/)
-- [Husky](https://github.com/typicode/husky/)
-- [Netlify](https://www.netlify.com/)
-- [CircleCi](https://circleci.com/developer/)
-
 
 # :construction_worker: Instalação
 
