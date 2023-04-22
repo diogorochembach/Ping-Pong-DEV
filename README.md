@@ -1,21 +1,22 @@
-<h1 align="center">Ping-Pong-DEV</h1>
+<h1 align="center">
+  <img src="https://assets-global.website-files.com/5fc46a8c6532b70b61e49a29/5fc46a8c6532b7ebb5e49a87_origin_logo_dark.svg" alt="Origin" width="250px">
+</h1>
+
+
+<h1 align="center">
+  Ping Pong DEV
+</h1>
+
+<br>
+🏠 Sobre o Projeto
+<h3> Esse projeto desenvolvi junto com o Prof. Felipe Fontoura nas aulas do <a href="https://lp.devsamurai.com.br/wue3c2p5/?utm_source=&utm_medium=cpc&utm_campaign=15847297851&utm_content=574424152468&xpromo=gl-574424152468&utm_term=133556228353&gclid=Cj0KCQjwxYOiBhC9ARIsANiEIfanQfjTDMFFZ-tMRUepq7UO9cVRkPLCWnstckaEyql_ANVXWueGAIEaArovEALw_wcB">DEVSAMURAI</a>. Foi muito desafiador e gratificante ver um jogo que desenvolvi funcionando. Por mais simples que pareça, foi difícil...</h3>
 <br>
 <br>
-<p align="center">
-  <a href="#house-about-the-project">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-technologies">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#construction_worker-installation">Introdução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#bug-issues">Problemas</a>&nbsp;&nbsp;&nbsp;
-</p>
- 
- <br>
+<br>
+
 <img src="https://github.com/diogorochembach/Ping-Pong-DEV/blob/main/assets/telaPingPong.png?raw=true" />
 <br>
 
-## 🏠 Sobre o Projeto
-<h4> Esse projeto desenvolvi junto com o Prof. Felipe Fontoura nas aulas do <a href="https://lp.devsamurai.com.br/wue3c2p5/?utm_source=&utm_medium=cpc&utm_campaign=15847297851&utm_content=574424152468&xpromo=gl-574424152468&utm_term=133556228353&gclid=Cj0KCQjwxYOiBhC9ARIsANiEIfanQfjTDMFFZ-tMRUepq7UO9cVRkPLCWnstckaEyql_ANVXWueGAIEaArovEALw_wcB">DEVSAMURAI</a>. Foi muito desafiador, mas gratificante ver um jogo que desenvolvi funcionando. Por mais simples que pareça, foi difícil...</h4>
-<br>
-<br>
 
 # :construction_worker: Instalação
 
